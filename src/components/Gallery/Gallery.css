@@ -1,0 +1,17 @@
+.gallery-intro{
+    background-color: #a1c2cc;
+}
+
+.gallery-heading{
+    font-size: 40px;
+    padding: 40px 25px 0px 25px;
+}
+
+.gallery-content{
+    font-size: 20px;
+    padding: 10px 25px 40px 25px;
+}
+
+.gallery-heading, .gallery-content{
+    color: white;
+}

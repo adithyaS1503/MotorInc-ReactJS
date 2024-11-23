@@ -1,0 +1,41 @@
+.show-navs {
+    padding: 20px 0px;
+    background-color: #c2d1c7;
+}
+
+.a-show, .b-show, .c-show {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    margin-bottom: 10px; 
+}
+
+.d-show{
+    display: inline-block;
+    position: relative;
+    width: 100%;
+}
+
+.show-image {
+    width: 100%;
+    display: block;
+}
+
+.text-overlay {
+    position: absolute;
+    bottom: 60px; /* Adjust the bottom position */
+    left: 20px;   /* Adjust the left position */
+    z-index: 1;
+    color: black; 
+}
+
+.tc-heading, .show-heading {
+    font-size: 40px;
+    margin-bottom: 10px;
+    padding-left: 30px;
+}
+
+.tc-body, .show-body {
+    font-size: 20px;
+    padding-left: 30px;
+}

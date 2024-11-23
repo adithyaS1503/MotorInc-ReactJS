@@ -1,0 +1,18 @@
+.title-img{
+    width: 100%;
+    height: auto; 
+    max-height: 100vh; 
+    object-fit: cover; 
+    display: block; 
+}
+
+.title-text{
+    position: absolute;
+    bottom: 400px;
+    left: 80px;
+}
+
+.about-heading{
+    font-size: 45px;
+    color: white;
+}
