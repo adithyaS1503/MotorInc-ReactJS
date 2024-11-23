@@ -1,0 +1,33 @@
+/* 
+
+Color guides
+
+background-color: #a1c2cc;
+^ The light blue color they use
+
+background-color: #a4d7e4;
+The infocard sky-blue
+
+background-color: #70b5c7;
+^ The slightly darker blue color
+
+background-color: #c2d1c7;
+The Beige like color
+
+*/
+
+
+#root {
+  max-width: 100%;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

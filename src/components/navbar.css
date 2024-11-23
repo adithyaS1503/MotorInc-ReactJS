@@ -1,0 +1,45 @@
+.navbar{
+    background-color:slategray;
+    /* background-color: #a0b3bc; */
+    overflow: hidden;
+    position: sticky;
+    padding: 15px 20px;
+    margin: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex; 
+    /* flex is what is used to bring all the items in the class into a line... ok */
+    align-items: center;
+    z-index: 1000;
+    opacity: 0.8;
+  }
+
+  .logo{
+    height: 100px;
+    margin-right: 20px;
+    width: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .navlink{
+    color: white;
+    text-decoration: none;
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 25px;
+  }
+  
+  .navlink:hover{
+    color:bisque;
+  }
+  
+  .searchbar {
+    margin-left: auto; /* Pushes the search bar to the right */
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+  }
